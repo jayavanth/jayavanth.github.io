@@ -19,6 +19,8 @@ It depends on whether you’re willing to potentially sacrifice comprehension. E
 I can’t just start grouping sometimes. I need to achieve flow[^3] (more on that later) before I can hit word grouping. To start grouping, I first start with 1-gram and then when I achieve flow, I slowly start with 2,3.. etc.
 
 
-[^1]: [https://en.wikipedia.org/wiki/Speed_reading](https://en.wikipedia.org/wiki/Speed_reading).
-[^2]: [https://en.wikipedia.org/wiki/N-gram](https://en.wikipedia.org/wiki/N-gram)
-[^3]: [https://en.wikipedia.org/wiki/Flow_(psychology)](https://en.wikipedia.org/wiki/Flow_(psychology))
+  [^1]: [https://en.wikipedia.org/wiki/Speed_reading](https://en.wikipedia.org/wiki/Speed_reading).
+  [^2]: [https://en.wikipedia.org/wiki/N-gram](https://en.wikipedia.org/wiki/N-gram)
+  [^3]: [https://en.wikipedia.org/wiki/Flow_(psychology)](https://en.wikipedia.org/wiki/Flow_(psychology))
+
+
