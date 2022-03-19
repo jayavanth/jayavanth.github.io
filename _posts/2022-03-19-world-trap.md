@@ -13,7 +13,7 @@ You guess a word with 3 or 4 letters in the right place but you're left with a l
 
 This situation commonly occurs with 3 or 4 letters in my experience. Turns out the average number of words with the same 4 letters is 3.048 and for 3 letters it's 8.044.
 
-You can try it out here: https://github.com/jayavanth/wordletrap
+You can try it out [here](https://github.com/jayavanth/wordletrap).
 
 ## What should you do?
 
