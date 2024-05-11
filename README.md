@@ -9,6 +9,8 @@ layout: page
 
 [LinkedIn](https://www.linkedin.com/in/jayavanth/)
 
+[GitHub](https://github.com/jayavanth)
+
 [CV](/assets/JayavanthShenoy.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?user=z7cMKK4AAAAJ&hl=en)
