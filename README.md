@@ -5,5 +5,15 @@ layout: page
 ---
 [Twitter](https://twitter.com/jayshenoy) | [LinkedIn](https://www.linkedin.com/in/jayavanth/) | [GitHub](https://github.com/jayavanth)
 
-[CV](/assets/JayavanthShenoy.pdf) | [Google Scholar](https://scholar.google.com/citations?user=z7cMKK4AAAAJ&hl=en) | [⭐️ Book ⭐️](https://www.nowpublishers.com/article/BookDetails/9781638283447)
+[CV](/assets/JayavanthShenoy.pdf) | [Google Scholar](https://scholar.google.com/citations?user=z7cMKK4AAAAJ&hl=en)
 
+## Book
+[High Performance Privacy Preserving AI](https://www.nowpublishers.com/article/BookDetails/9781638283447)
+
+## Reviewer
+* AAAI Fall Symposium Series 2024 - Large Language Models for Knowledge Graph and Ontology Engineering
+* Computo Journal
+
+## Talks
+* [Scaled Medical Records Analysis](https://covidinfocommons.datascience.columbia.edu/content/jayavanth-shenoy-onai) - Covid Information Commons Webinar 2024
+* SPIDER - NSF OKN Symposium at ISWC 2024
