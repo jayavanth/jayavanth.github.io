@@ -13,6 +13,7 @@ layout: page
 ## Reviewer
 * AAAI Fall Symposium Series 2024 - Large Language Models for Knowledge Graph and Ontology Engineering
 * Computo Journal
+* ACML 2025
 
 ## Talks
 * [Scaled Medical Records Analysis](https://covidinfocommons.datascience.columbia.edu/content/jayavanth-shenoy-onai) - Covid Information Commons Webinar 2024
