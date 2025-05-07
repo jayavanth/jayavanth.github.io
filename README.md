@@ -18,3 +18,4 @@ layout: page
 ## Talks
 * [Scaled Medical Records Analysis](https://covidinfocommons.datascience.columbia.edu/content/jayavanth-shenoy-onai) - Covid Information Commons Webinar 2024
 * SPIDER - NSF OKN Symposium at ISWC 2024
+* Talk on Knowledge Engineering for CIS590 Kansas State University
